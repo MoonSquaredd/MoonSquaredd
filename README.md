@@ -1,4 +1,10 @@
-## Hi there 👋
+- Currently reverse engineering pre-xrd Guilty Gear games and making tools to work with said games files
+- Learning Java for modding purposes
+### Languages i know/work with:
+- C / C++
+- Assembly x86 / MIPS 32
+- GDScript
+- Java
 
 <!--
 **MoonSquaredd/MoonSquaredd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
